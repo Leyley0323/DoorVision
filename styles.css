@@ -5,10 +5,6 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 
-html {
-    scroll-behavior: smooth;
-}
-
 .header {
     background-image:linear-gradient(to bottom, #191970, #4169E1);
     background-attachment: scroll;
@@ -77,4 +73,5 @@ html {
 
 .doctitle {
     font-weight: bold;
+
 }
